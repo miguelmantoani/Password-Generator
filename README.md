@@ -18,9 +18,3 @@ Uma ferramenta prática para gerar senhas seguras com diversas opções de confi
 - HTML5
 - CSS3
 - JavaScript (ES6)
-
-## Como usar
-
-1. Baixe ou clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/password-generator.git
